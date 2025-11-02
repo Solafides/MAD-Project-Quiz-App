@@ -14,7 +14,7 @@ WorldWise is a mobile quiz app designed to help users learn and test their knowl
 - [Jira Board](https://fenanged.atlassian.net/jira/software/projects/MP/boards/34?atlOrigin=eyJpIjoiMjkxNDhlMGQ5YzBiNDQ5YmEzYzFiZDU3ODVjNGJkMzMiLCJwIjoiaiJ9)
 
 ## 📄 Documentation  
-- [Project Proposal ](https://docs.google.com/document/d/1jkgYIz91QgWkSV92gaxVggVEpIxcU18L/edit?usp=drivesdk&ouid=117917776562402914924&rtpof=true&sd=true)
+- [Project Proposal ](https://docs.google.com/document/d/1z0XI5Eohd8hfPBSv-r_W6A5CWuGcuzu9uYRuWONIMbA/edit?usp=sharing)
 
 
 
