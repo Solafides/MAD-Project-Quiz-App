@@ -7,7 +7,7 @@ WorldWise is a mobile quiz app designed to help users learn and test their knowl
 ## 👥 Team Members  
 - Solomon Timiso – Project Lead  
 - Lidiya Simeneh – UI/UX Lead  
-- Tebarek Zewude, Fenan Gadisa, Tseganesh Kebede – Android Developer  
+- Tebarek Zewude, Fenan Gadisa, Tseganesh Kebede – Android Developer
 
 ## 🎨 Design & Planning Links  
 - [Figma Board](https://figma.com/your-figma-link-here](https://www.figma.com/proto/tK4ur0eX1f1lzEwUW1f8oK/Untitled?node-id=8-24&p=f&t=gAZUj3E3bIVuDApx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2))  
